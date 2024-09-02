@@ -1,20 +1,20 @@
 ![logo](https://github.com/ashranPathan/ashranPathan/blob/main/Screenshot%20(447).png)
 <h1 align="center">Hi 👋, I'm Ashran Pathan</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Engineering Student from India</h3>
 <img align="right" alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashranpathan&label=Profile%20views&color=0e75b6&style=flat" alt="ashranpathan" /> </p>
 
 - 🔭 I’m currently Studying B-Tech in IT Engineering [Pimpri- Chinchwad college of Engineering,Pune](http://www.pccoepune.com/)
 
-- 🌱 I’m currently learning Android Development in Flutter **Flutter,kotlin**
+- 🌱 I’m currently learning Aws Solution Architect Concetps as well as DevOps  *
 
-- 👨‍💻 All of my projects are available at [file:///C:/Users/Lenovo/Downloads/ASHRAN%20PATHAN%20RESUME.pdf](file:///C:/Users/Lenovo/Downloads/ASHRAN%20PATHAN%20RESUME.pdf)
+- 👨‍💻 All of my projects are available at
 
-- 💬 Ask me about **App Development,Web Development, Digital Marketing**
+- 💬 Ask me about **Aws ,Cloud Computing DevOps**
 
 - 📫 How to reach me **pathanashran2@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Lenovo/Downloads/ASHRAN%20PATHAN%20RESUME.pdf](file:///C:/Users/Lenovo/Downloads/ASHRAN%20PATHAN%20RESUME.pdf)
+- 📄 Know about my experiences *I had Completed 2 month internship in Kalkey solution as DevOps Intern and one month internship at Innovate Solutions * 
 
 - ⚡ Fun fact **I'm Passionate Towards My Work**
 
